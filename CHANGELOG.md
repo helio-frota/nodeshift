@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.2.2](https://www.github.com/nodeshift/nodeshift/compare/v7.2.1...v7.2.2) (2020-12-16)
+
+
+### Bug Fixes
+
+* **build:** Adding the configuration for coveralls ([#516](https://www.github.com/nodeshift/nodeshift/issues/516)) ([74dbf89](https://www.github.com/nodeshift/nodeshift/commit/74dbf899fbb296553dae539be56db0a23ee0c719))
+* upgrade yargs from 16.1.0 to 16.1.1 ([#511](https://www.github.com/nodeshift/nodeshift/issues/511)) ([28a8408](https://www.github.com/nodeshift/nodeshift/commit/28a8408d49e12515ea1ce46c20f5fc7a3afe9a17))
+
 ### [7.2.1](https://www.github.com/nodeshift/nodeshift/compare/v7.2.0...v7.2.1) (2020-12-01)
 
 
